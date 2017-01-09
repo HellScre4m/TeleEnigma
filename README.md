@@ -52,7 +52,6 @@ sed -i 's/\r$//' run.sh
 
 ```
 sudo_users = {
-    201707431,
     0
   }
 ```
